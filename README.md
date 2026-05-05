@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SubTrack — Subscription Reselling Management SaaS
 
 A full-stack Next.js SaaS for managing, tracking, and operating a subscription reselling business.
@@ -176,3 +177,6 @@ Secure it by setting `CRON_SECRET` in your env vars.
 ## License
 
 MIT — build your business on it.
+=======
+# NEXT.js_SUBNEX_E_COMM
+>>>>>>> f93fc32e7e5949a3c3b8e828bdb4c962db8e8e61
